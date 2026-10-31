@@ -1,0 +1,3 @@
+[submodule "backend/shared-modules"]
+	path = backend/shared-modules
+	url = https://github.com/aaarif044/shared-modules.git
